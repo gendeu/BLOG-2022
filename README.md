@@ -1,4 +1,4 @@
-# POS-2022
+# Warehouse Inventory System 2022
 
 Developer: Gen Deu L. Gagarin
 
